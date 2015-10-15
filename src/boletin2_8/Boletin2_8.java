@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Boletin2_8 {
 
-   
+   //comentario para ejercicio de pull
     public static void main(String[] args) {
        float nom, interes, anos, t, potencia, renda;
         Scanner obx= new Scanner(System.in);
